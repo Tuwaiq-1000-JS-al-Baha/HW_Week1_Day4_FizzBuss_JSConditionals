@@ -13,8 +13,8 @@ Otherwise, return the number
 
 ```js
 
-//let var = 3
-
-//Output : Fizz
-
+// number: 3  => Output : Fizz
+// number: 5  => Output : Buzz
+// number: 15 => Output : FizzBuzz
+// number: 7  => Output : 7
 ```
