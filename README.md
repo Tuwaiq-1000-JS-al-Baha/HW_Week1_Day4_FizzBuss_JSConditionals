@@ -1,4 +1,4 @@
-# HW_Week1_Day4_FizzBuss_JSConditionals
+# HW_Week1_Day4_FizzBuzz_JSConditionals
 
 ### FizzBuzz Function
 Create a variable that accepts a number
